@@ -9,5 +9,7 @@ public class Main {
         int bbbbbbb;
         double bbbbbbbbbbbb;
         System.out.println("第二次");
+        double cccccccccccccc;
+        System.out.println("第三次");
     }
 }
